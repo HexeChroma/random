@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Oneshot 2023</name>
+		<description>Supplements for the 2023 Oneshot.</description>
+		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
+		<update version="0.5.7">
+			<file name="supplements.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements.index" />
+		</update>
+	</info>
+	<files>
+		<file name="xanathars-guide-to-everything.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/xanathars-guide-to-everything.index" />
+		<file name="tashas-cauldron-of-everything.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything.index" />
+		<file name="fizbans-treasury-of-dragons.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/fizbans-treasury-of-dragons.index" />
+		<file name="monsters-of-the-multiverse.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/monsters-of-the-multiverse.index" />
+	</files>
+</index>
